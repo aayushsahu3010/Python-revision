@@ -66,3 +66,4 @@ a.push(40)
 a.display()
 
 a.peek()
+
