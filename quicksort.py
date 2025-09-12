@@ -31,3 +31,4 @@ def  partition(arr,low,high):
 arr = [38, 27, 43, 3, 9, 82, 10]
 print("Original:", arr)
 print("Sorted:  ", Quick_Sort(arr,0,len(arr)-1))
+print("Original:", arr)
